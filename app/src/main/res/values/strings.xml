@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">AppDish</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="startseite">Startseite</string>
+    <string name="plus">
+    <font size="20">+</font><font size="20">+</font>
+</string>
+
+    <string-array name="kategorie_items">
+        <item></item>
+        <item>Italienisch</item>
+        <item>Griechisch</item>
+        <item>Chinesisch</item>
+        <item>Japanisch</item>
+        <item>Pizza</item>
+        <item>Pasta</item>
+
+
+    </string-array>
+
+    <string-array name="ernährungsform_items">
+        <item></item>
+        <item>Vegetarisch</item>
+        <item>Vegan</item>
+        <item>low carb</item>
+        <item>glutenfrei</item>
+        <item>laktosefrei</item>
+
+
+    </string-array>
+
+    <string-array name="portion">
+        <item></item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>Pasta</item>
+
+
+    </string-array>
+
+    <string-array name="Dateneinheit">
+        <item>Kg</item>
+        <item>L</item>
+        <item>g</item>
+        <item>ml</item>
+        <item>stueck</item>
+        <item>buendel</item>
+        <item>prise</item>
+        <item>tasse</item>
+        <item>essloeffel</item>
+        <item>scheiben</item>
+
+
+    </string-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">LOGIN</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="erstellen">+ Erstellen</string>
+</resources>

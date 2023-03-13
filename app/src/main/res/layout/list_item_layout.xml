@@ -1,0 +1,69 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="4dp"
+    android:padding="2dp"
+    app:cardElevation="3dp">
+
+    <RelativeLayout
+        android:layout_width="407dp"
+        android:layout_height="138dp"
+        android:visibility="visible">
+
+        <!--Image view for displaying our image-->
+
+        <TextView
+            android:id="@+id/idRezeptName"
+            android:layout_width="204dp"
+            android:layout_height="39dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="50dp"
+            android:layout_toStartOf="@+id/idbtnRezeptÄndern"
+            android:padding="3dp"
+            android:textAlignment="textStart"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:visibility="visible"
+            tools:text="recipe_name" />
+
+        <ImageView
+            android:id="@+id/idIbtnRezeptLöschen"
+            android:layout_width="58dp"
+            android:layout_height="55dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="50dp"
+            android:background="@color/white"
+            android:backgroundTint="@color/white"
+            android:padding="3dp"
+            app:srcCompat="@drawable/ic_baseline_delete_forever_24"
+            tools:srcCompat="@drawable/ic_baseline_delete_forever_24" />
+
+        <ImageView
+            android:id="@+id/idbtnRezeptÄndern"
+            android:layout_width="59dp"
+            android:layout_height="57dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="50dp"
+            android:layout_toStartOf="@+id/idIbtnRezeptLöschen"
+            android:background="@color/white"
+            android:backgroundTint="@color/white"
+            android:padding="3dp"
+            app:srcCompat="@drawable/ic_baseline_edit_24"
+            tools:srcCompat="@drawable/ic_baseline_edit_24" />
+
+        <!--Text view for displaying our text -->
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

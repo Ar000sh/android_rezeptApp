@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Saturn/AndroidStudioProjects/appdish-testing/app/src/main/res/drawable/ic_logout_svgrepo_com_1.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Saturn/AndroidStudioProjects/appdish-testing/app/src/main/res/layout-v28/fragment_rezept_erstellen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Saturn/AndroidStudioProjects/appdish-testing/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Saturn/AndroidStudioProjects/appdish-testing/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Saturn/AndroidStudioProjects/appdish-testing/app/src/main/res/layout/activity_meine_rezepte.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Saturn/AndroidStudioProjects/appdish-testing/app/src/main/res/layout/nav_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Saturn/AndroidStudioProjects/appdish-testing/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matti/AndroidStudioProjects/appdish1/app/src/main/res/drawable/circle.xml" value="0.3828125" />
+        <entry key="..\:/Users/matti/AndroidStudioProjects/appdish1/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/matti/AndroidStudioProjects/appdish1/app/src/main/res/drawable/ic_icon.xml" value="0.3828125" />
+        <entry key="..\:/Users/matti/AndroidStudioProjects/appdish1/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/matti/AndroidStudioProjects/appdish1/app/src/main/res/layout/activity_meine_rezepte.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/matti/AndroidStudioProjects/appdish1/app/src/main/res/layout/list_item_layout.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/matti/AndroidStudioProjects/appdish1/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matti/AndroidStudioProjects/appdish1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
